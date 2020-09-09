@@ -19,4 +19,4 @@ B. Network Folder
         
         
         
-Please download our simulated dataset <a id="raw-url" href="https://drive.google.com/file/d/1EwCDP1IPJivs2U6ldz80q7q7Bemloplm/view?usp=sharing">here</a>!
+You can download our simulated dataset <a id="raw-url" href="https://drive.google.com/file/d/1EwCDP1IPJivs2U6ldz80q7q7Bemloplm/view?usp=sharing">here</a>!
