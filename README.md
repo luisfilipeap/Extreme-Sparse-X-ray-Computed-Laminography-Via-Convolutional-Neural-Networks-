@@ -16,3 +16,7 @@ B. Network Folder
             (you can skip this step and use the csv files I generated)
         3. run train.py
         4. execute generalization.py to get the results for the images in the test set
+        
+        
+        
+Please download our simulated dataset <a id="raw-url" href="https://drive.google.com/file/d/1EwCDP1IPJivs2U6ldz80q7q7Bemloplm/view?usp=sharing">here</a>!
